@@ -16,6 +16,7 @@ Exemplos:
     <= Valor da esquerda menor ou igual ao valor da direita
     >  Valor da esquerda maior que o valor da direita
     >= Valor da esquerda maior ou igual ao valor da direita
+    <> ou != Valor da esquerda diferente do valor da direita
 
 ## Operadores Lógicos:  [...] WHERE investimento < 500 AND carga_horaria > 30
 
