@@ -22,3 +22,4 @@ Relacionamento um para muitos
         INSERT INTO tb_imagens (id_produto, url_imagem) VALUES (2, 'smarttv_1.jpg'), (2, 'smarttv_2.jpg');
 
         INSERT INTO tb_imagens (id_produto, url_imagem) VALUES (3, 'smartphone_1.jpg');
+        
